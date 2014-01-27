@@ -29,3 +29,11 @@ nav ul li. selected{
     background-color:yellowgreen;
 }
 /* ---- NAVIGATION ---- */
+
+/* ---- BACKGROUND ---- */
+
+body{
+    background-color: #ccdfb5;
+    width: 940px;
+    margin: 10px;
+}
