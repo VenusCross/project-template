@@ -3,7 +3,14 @@
 /* ---- TYPOGRAPHY ---- */
 /* ---- MISC ---- */
 
+/* ---- BACKGROUND ---- */
 
+body{
+    width: 100%;
+    max-width: 960px;
+    background-color: #ccdfb5;
+    margin: 0 auto;
+}
 
 
 
@@ -17,7 +24,12 @@
 nav ul li{
     display: inline;
     padding: 5px 0px 5px 0px;
+    width: 30%;
 
+}
+nav ul li a{
+    display: inline;
+    width: 100%;
 }
 nav ul li a:link, ul li a:visited {
     color: aquamarine;
@@ -30,10 +42,21 @@ nav ul li. selected{
 }
 /* ---- NAVIGATION ---- */
 
-/* ---- BACKGROUND ---- */
+/* ---- images ---- */
 
-body{
-    background-color: #ccdfb5;
-    width: 940px;
-    margin: 10px;
+img.large {
+    width: 500px;
+    height: 500px;
 }
+
+img.medium{
+    width: 250px;
+    height: 250px;
+}
+img.small{
+    width 100px;
+    height: }
+}
+/* ---- images ---- */
+
+/
