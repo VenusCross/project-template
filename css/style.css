@@ -56,6 +56,42 @@ img.medium{
 img.small{
     width 100px;
     height: }
+
+/*--border for image*/
+.border{
+    background: #;
+    float: left;
+    width: 310px;
+    height:280px;
+}
+
+.border2{
+    background-color: #cccccc;
+    float: left;
+    width:300px;
+
+}
+.main {
+    float:left;
+    background:url (villarome.jpg);
+    width:290px;
+    height: 260px;
+    margin: 5px;
+}
+.video1{
+    background-color: #cccccc;
+    float: left;
+    width:570px;
+    height: 320px;
+}
+.video2{
+    background-color: #cccccc;
+    float: left;
+    width:570px;
+    height: 320px;
+}
+
+
 }
 /* ---- images ---- */
 
